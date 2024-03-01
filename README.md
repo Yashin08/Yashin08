@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutvik Chaudhary</h1>
-<h4 align="center">A passionate student with expertise in various AWS services. I love diving deep into cloud technologies and building scalable solutions that solve real-world problems.</h4> 
-<h4 align="center"> 🌟 Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to construct a solid foundation for problem-solving and algorithmic thinking.</h4> 
-<h4 align="center">💡 I'm eager to learn more about AWS services and how they can be leveraged to create scalable and reliable solutions. If you're working on AWS-related projects or have tips to share, I'm all ears!</h4>
+<h4 align="center">A passionate student on a journey to explore the vast world of cloud computing, including AWS services.</h4> 
+<h4> 🌟 Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to construct a solid foundation for problem-solving and algorithmic thinking.</h4> 
+<h4>💡 I'm eager to learn more about AWS services and how they can be leveraged to create scalable and reliable solutions. If you're working on AWS-related projects or have tips to share, I'm all ears!</h4>
 
 - 📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/rutvik-chaudhary-056663230/) or drop me an email at [Gmail](chaudharyrutvik87@gmail.com). Let's learn, grow, and build together!
 
