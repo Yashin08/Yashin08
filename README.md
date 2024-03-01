@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rutvik Chaudhary</h1>
 <h3 align="center">A passionate student with expertise in various AWS services. I love diving deep into cloud technologies and building scalable solutions that solve real-world problems.
+
   
 🌟 Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to construct a solid foundation for problem-solving and algorithmic thinking. 
 
