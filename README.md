@@ -3,7 +3,7 @@
 <h4 align="center"> 🌟 Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to construct a solid foundation for problem-solving and algorithmic thinking.</h4> 
 <h4 align="center">💡 I'm always on the lookout for exciting projects and collaborations, especially those related to AWS services. Whether it's building cloud-native applications, optimizing infrastructure, or automating workflows, count me in! Let's partner up and create something AWSome together.</h4>
 
-- 📫 How to reach me **chaudharyrutvik87@gmail.com**
+- 📫 How to reach me [Gmail](chaudharyrutvik87@gmail.com)
 
 
 
