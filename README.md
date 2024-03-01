@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rutvik Chaudhary</h1>
 <h4 align="center">A passionate student on a journey to explore the vast world of cloud computing, including AWS services.</h4> 
-<h4> 🌟 Currently, I'm sharpening my skills in Data Structures and Algorithms (DSA) to construct a solid foundation for problem-solving and algorithmic thinking.</h4> 
-<h4>💡 I'm eager to learn more about AWS services and how they can be leveraged to create scalable and reliable solutions. If you're working on AWS-related projects or have tips to share, I'm all ears!</h4>
 
-- 📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/rutvik-chaudhary-056663230/) or drop me an email at [Gmail](chaudharyrutvik87@gmail.com). Let's learn, grow, and build together!
+- 🌱 I’m currently learning **Data Structures & Algorithms and AWS Services**
+
+- 👯 I’m looking to collaborate on **AWS based projects**
+
+- 📫 Feel free to drop me an email at [Gmail](chaudharyrutvik87@gmail.com). Let's learn, grow, and build together!
 
 
 
-<h3 align="left">My coding profile:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="[https://linkedin.com/in/rutvik-chaudhary-056663230](https://linkedin.com/in/rutvik-chaudhary-056663230/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutvik-chaudhary-056663230" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaudharyrutvik87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chaudharyrutvik87/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rutvik87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rutvik87" height="30" width="40" /></a>
 </p>
